@@ -1,0 +1,18 @@
+Version of session file format:
+               1
+Time of storage:
+               "Fri Aug  2 21:56:00 MST 2013"
+Layout:        VerticalP (TerminalP {paneGroups = fromList [], paneTabs = Just TopP, currentPage = 0, detachedId = Nothing, detachedSize = Nothing}) (HorizontalP (TerminalP {paneGroups = fromList [("Debug",HorizontalP (TerminalP {paneGroups = fromList [], paneTabs = Nothing, currentPage = 0, detachedId = Nothing, detachedSize = Nothing}) (TerminalP {paneGroups = fromList [], paneTabs = Just TopP, currentPage = 0, detachedId = Nothing, detachedSize = Nothing}) 482)], paneTabs = Just BottomP, currentPage = 0, detachedId = Nothing, detachedSize = Nothing}) (TerminalP {paneGroups = fromList [], paneTabs = Nothing, currentPage = 0, detachedId = Nothing, detachedSize = Nothing}) 1160) 651
+Population:    [(Just (BreakpointsSt BreakpointsState),[SplitP RightP,SplitP TopP,GroupP "Debug",SplitP BottomP]),(Just (ErrorsSt ErrorsState),[SplitP RightP,SplitP TopP]),(Just (FilesSt FilesState),[SplitP RightP,SplitP TopP]),(Just (LogSt LogState),[SplitP RightP,SplitP BottomP]),(Just (BufferSt (BufferState "/home/ljw/Dropbox/haskell/learning/src/Main.hs" 439)),[SplitP LeftP]),(Just (TraceSt TraceState),[SplitP RightP,SplitP TopP,GroupP "Debug",SplitP BottomP]),(Just (VariablesSt VariablesState),[SplitP RightP,SplitP TopP,GroupP "Debug",SplitP BottomP]),(Just (WorkspaceSt WorkspaceState),[SplitP RightP,SplitP BottomP]),(Just (BufferSt (BufferStateTrans "_Eval.hs" "\n" 0)),[SplitP RightP,SplitP TopP,GroupP "Debug",SplitP TopP]),(Just (BufferSt (BufferState "/home/ljw/Dropbox/haskell/learning.hs" 0)),[SplitP LeftP])]
+Window size:   (1274,1373)
+Completion size:
+               (750,400)
+Workspace:     Just "/home/ljw/Dropbox/haskell/learning.lkshw"
+Active pane:   Just "Main.hs"
+Toolbar visible:
+               False
+FindbarState:  (False,FindState {entryStr = "", entryHist = [""], replaceStr = "", replaceHist = [], caseSensitive = False, entireWord = False, wrapAround = False, regex = False, lineNr = 1})
+Recently opened files:
+               ["/home/ljw/.leksah-0.12/leksah-welcome/src/Main.hs","/home/ljw/.leksah-0.12/leksah-welcome/Setup.lhs","/home/ljw/.leksah-0.12/leksah-welcome/leksah-welcome.cabal"]
+Recently opened workspaces:
+               ["/home/ljw/leksah.lkshw"]
